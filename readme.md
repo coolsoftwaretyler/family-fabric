@@ -4,14 +4,18 @@
 
 ## Scripts
 
-Server:
+Local server:
 
 ```
 npm run serve
 ```
 
-Build: 
+Build the site: 
 
 ```
 npm run build
 ```
+
+## Reference 
+
+[Reference](https://commonmark.org/help/)
