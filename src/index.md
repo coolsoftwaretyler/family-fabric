@@ -1,3 +1,7 @@
+---
+layout: layouts/default.html
+---
+
 # Hey here we are
 
 ## This is an h2
